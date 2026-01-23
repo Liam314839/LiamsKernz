@@ -14,3 +14,4 @@
 - **simonpunk** for SUSFS patches (branch `gki-android15-6.6`):  
   [https://gitlab.com/simonpunk/susfs4ksu](https://gitlab.com/simonpunk/susfs4ksu)
 
+- **TheWildJames and fatalcoder524** for KernelSU-Next patches
