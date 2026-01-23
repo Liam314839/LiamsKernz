@@ -1,4 +1,4 @@
-## Credits / Acknowledgements
+## Credits
 
 - **LineageOS** for kernel source code:  
   [https://github.com/LineageOS](https://github.com/LineageOS)  
@@ -15,3 +15,11 @@
   [https://gitlab.com/simonpunk/susfs4ksu](https://gitlab.com/simonpunk/susfs4ksu)
 
 - **TheWildJames and fatalcoder524** for KernelSU-Next patches
+
+
+
+Download image from https://files.catbox.moe/a1nlxu.img
+
+Flash it by running the following in bootloader mode (hold down power, volume up, and volume down while booting):
+
+`fastboot flash boot a1nlxu.img`
